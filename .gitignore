@@ -1,0 +1,52 @@
+# Unity generated folders (rebuilt automatically, never commit)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Crashlytics / Gradle / Android
+/[Aa]ssets/[Pp]lugins/[Aa]ndroid/gradle*
+crashlytics-build.properties
+
+# Visual Studio / Rider / IDE files
+.vs/
+.vscode/
+.idea/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
